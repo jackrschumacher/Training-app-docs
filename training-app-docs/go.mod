@@ -1,8 +1,5 @@
-module github.com/jackrschumacher/training-app-docs
+module github.com/jackrschumacher/Training-app-docs
 
 go 1.26.4
 
-require (
-	github.com/colinwilson/lotusdocs v0.3.0 // indirect
-	github.com/gohugoio/hugo-mod-bootstrap-scss/v5 v5.20300.20800 // indirect
-)
+require github.com/alex-shpak/hugo-book v0.14.0 // indirect
